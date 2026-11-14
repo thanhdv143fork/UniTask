@@ -24,3 +24,4 @@ Automatically updated by the [Sync Upstream](.github/workflows/sync-upstream.yml
 | 2026-11-11 09:28:26 | Cysharp/UniTask | a77a1b4 | Already up to date |
 | 2026-11-12 09:51:55 | Cysharp/UniTask | a77a1b4 | Already up to date |
 | 2026-11-13 09:33:41 | Cysharp/UniTask | a77a1b4 | Already up to date |
+| 2026-11-14 08:59:30 | Cysharp/UniTask | a77a1b4 | Already up to date |
